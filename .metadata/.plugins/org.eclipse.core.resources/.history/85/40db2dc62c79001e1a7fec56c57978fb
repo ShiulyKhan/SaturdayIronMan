@@ -1,0 +1,13 @@
+
+package Kulsuma;
+
+public class BioData {
+	
+	public static void main(String[] args) {
+		
+		System.out.println("Shiuly Khan");
+		System.out.println("2672501630");
+		
+	}
+
+}

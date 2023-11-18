@@ -1,0 +1,14 @@
+
+package Kulsuma;
+
+public class BioData {
+	
+	public static void main(String[] args) {
+		
+		System.out.println("Shiuly Khan /n 2672501630 /n BSc in CSE");
+		
+	
+		
+	}
+
+}
