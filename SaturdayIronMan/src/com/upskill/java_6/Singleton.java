@@ -27,4 +27,6 @@ public class Singleton {
 	protected static void demo3(){
 		System.out.println("Demo III method for singleton class");
 	}
+	
+	//git changes
 }
