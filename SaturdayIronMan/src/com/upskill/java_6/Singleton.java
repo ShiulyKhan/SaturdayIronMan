@@ -28,7 +28,7 @@ public class Singleton {
 		System.out.println("Demo III method for singleton class");
 	}
 	
-	//git change
+	//git changes
 	
 	//review class
 	
